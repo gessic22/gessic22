@@ -13,6 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/gessic22/github-readme-stats)
 
+https://github-readme-stats.vercel.app/api?username=geeox96&show_icons=true&theme=default
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeox96&layout=compact)](https://github.com/geeox96/github-readme-stats)
 
 
