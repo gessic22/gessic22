@@ -11,6 +11,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/gessic22/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeox96&layout=compact)](https://github.com/geeox96/github-readme-stats)
 
 
