@@ -1,16 +1,14 @@
 # Welcome to my profile&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
-
-[![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
-
-
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### **Program to change the world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 👋 Hi, I’m @gessic22
-- I'm interested in front-end.
+- 👋 Hi, I’m *Gessica Xavier*
+- I'm a front-end student, passionate about design, I'm 31 years old, starting this journey in August/2021.
+- I live in the city of São Roque - SP Brazil.
+- I'm interested in front-end, but I'm studying to be a Full Stack.
 - I'm currently learning JS, CSS, HTML, Vue, Node.JS
 - 📫 How to reach me gessic22@gmail.com
 
@@ -24,3 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/gessic22/github-readme-stats)
 
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gessic22/)
