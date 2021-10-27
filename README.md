@@ -1,4 +1,4 @@
-Welcome to my profile&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Welcome to my profile&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <img align="right" alt="PC GIF" src="https://i.giphy.com/media/xFkbhJ4KFLW8twElm9/giphy.webp" width="190" />
