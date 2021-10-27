@@ -1,7 +1,7 @@
 # Welcome to my profile&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://i.giphy.com/media/xFkbhJ4KFLW8twElm9/giphy.webp" width="190" />
 
 ### **Program to change the world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -11,6 +11,7 @@
 - I'm interested in front-end, but I'm studying to be a Full Stack.
 - I'm currently learning JS, CSS, HTML, Vue, Node.JS
 - 📫 How to reach me gessic22@gmail.com
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gessic22&show_icons=true&theme=default)
