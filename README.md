@@ -6,7 +6,7 @@
 ### **Program to change the world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👋 Hi, I’m *Gessica Xavier*
-- I'm a front-end student, passionate about design, I'm 31 years old, starting this journey in August/2021.
+- I'm a front-end student, passionate about design.
 - I live in the city of São Roque - SP Brazil.
 - I'm interested in front-end, but I'm studying to be a Full Stack.
 - I'm currently learning JS, CSS, HTML, Vue, Node.JS
