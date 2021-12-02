@@ -15,6 +15,10 @@
 &nbsp;
 &nbsp;
 <p align=center
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/gessic22/github-readme-stats)
+   
+<p align=center
   
 ![Anurag's GitHub stats align="right"](https://github-readme-stats.vercel.app/api?username=gessic22&show_icons=true&theme=default)
          
@@ -28,9 +32,7 @@
          
 [![wakatime](https://wakatime.com/badge/user/9fc2da54-5934-4362-913a-0c7f241acc32.svg)](https://wakatime.com/@9fc2da54-5934-4362-913a-0c7f241acc32)
 >
-<p align=center
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/gessic22/github-readme-stats)
 
   
  ##
