@@ -32,9 +32,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gessic22&layout=compact)](https://github.com/gessic22/github-readme-stats)
 
- >
-<p align=center
-   
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gessic22/)
+  
+ ##
 
->
+<p align="center" style="background:blue">
+  <a href="https://instagram.com/gessic22" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://linkedin.com/in/gessic22" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+  <a href="https://twitch.com/gessic22" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=twitch" alt="twitch"/>
+</a>
+</a>
+  <a href="https://steamcommunity.com/id/gessic22/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=steam" alt="twitch"/>
+</a>
+</p>
