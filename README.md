@@ -38,17 +38,20 @@
  ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/gessic22" target="_blank">
+<a href="https://instagram.com/gessic22" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://linkedin.com/in/gessic22" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-  <a href="https://twitch.com/gessic22" target="_blank">
+<a href="https://twitch.com/gessic22" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=twitch" alt="twitch"/>
 </a>
-</a>
-  <a href="https://steamcommunity.com/id/gessic22/" target="_blank">
+<a href="https://steamcommunity.com/id/gessic22/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=steam" alt="twitch"/>
 </a>
+<a href="https://discord.gg/ZJ34YUf" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-GessicaJhuly6103-05122A?style=flat&logo=discord" alt="twitch"/>
+</a>
+             
 </p>
