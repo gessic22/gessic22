@@ -1,9 +1,9 @@
-# Welcome to my profile&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Welcome to my profile&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">
 
 
-<img align="right" alt="PC GIF" src="https://i.giphy.com/media/xFkbhJ4KFLW8twElm9/giphy.webp" width="190" />
+<img align="right" alt="PC GIF" src="https://i.giphy.com/media/xFkbhJ4KFLW8twElm9/giphy.webp" width="190px" height="190px"/>
 
-### **Program to change the world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### **Program to change the world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px">
 
 - 👋 Hi, I’m *Gessica Xavier*
 - I'm a front-end student, passionate about design.
