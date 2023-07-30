@@ -51,7 +51,7 @@
  <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=steam" alt="twitch"/>
 </a>
 <a href="https://discord.gg/ZJ34YUf" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-GessicaJhuly6103-05122A?style=flat&logo=discord" alt="twitch"/>
+ <img align="center" src="https://img.shields.io/badge/-Gessica | Jhuly-05122A?style=flat&logo=discord" alt="twitch"/>
 </a>
              
 </p>
