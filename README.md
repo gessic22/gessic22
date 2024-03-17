@@ -38,9 +38,6 @@
  ##
 
 <p align="center" style="background:blue">
-<a href="https://instagram.com/gessic22" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="https://linkedin.com/in/gessic22" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gessic22-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
